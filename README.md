@@ -9,3 +9,6 @@ password: 123456
 email: admin@admin.com
 
 password: 111111
+
+
+Ссылка на проект https://auth-form-six.vercel.app/
