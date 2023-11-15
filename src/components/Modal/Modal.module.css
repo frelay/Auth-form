@@ -1,0 +1,24 @@
+.modal {
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  max-width: 25rem;
+  padding: 1rem;
+  border-radius: 3px;
+  background-color: #fff;
+  box-shadow: 0 0 1rem 1px rgba(0, 0, 0, 0.4);
+  font-size: 1.2rem;
+}
+
+.hide {
+  display: none;
+}
+
+.success {
+  color: green;
+}
+
+.fail {
+  color: red;
+}

@@ -1,0 +1,47 @@
+.form {
+  max-width: 25rem;
+  margin: 3rem auto;
+  text-align: center;
+  background: #fff;
+  border: 0 none;
+  border-radius: 3px;
+  box-shadow: 0 0 1rem 1px rgba(0, 0, 0, 0.4);
+  padding: 1.25rem 1.875rem;
+}
+
+.title {
+  text-transform: uppercase;
+  color: #2c3e50;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+}
+
+.input {
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  margin-bottom: 1rem;
+  width: 100%;
+  color: #2c3e50;
+  font-size: 0.8rem;
+}
+
+.loginBtn {
+  width: 6.25rem;
+  background: #1e90ff;
+  font-weight: bold;
+  color: #fff;
+  cursor: pointer;
+  border: 0 none;
+  border-radius: 1px;
+  padding: 0.6rem;
+  margin: 0.6rem 0.3rem;
+}
+
+.loginBtn:hover {
+  background: #1570cc;
+}
+
+.loginBtn:disabled {
+  background: #a9a9a9;
+}
